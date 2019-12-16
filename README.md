@@ -1,28 +1,17 @@
-# Unity2019114f1-2D-Template
+Project description: 
+programming using Playmaker
 
-### Project description: 
-Introduction/Project summary 
+ Development platform: 
+MacOS,Visual Studio Code
 
-### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Target platform: 
+WebGL
 
-### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Project state: 
+not finished
 
-### Visuals: 
-Screenshots (concept and experience), Video
+Limitations: 
+none
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Lessons Learned: making a canvas in Unity and programming with playmaker
 
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-
-### Project state: 
-incl. progress in percent
-
-### Limitations: 
-
-### Lessons Learned: 
-
-Copyright by you :)
